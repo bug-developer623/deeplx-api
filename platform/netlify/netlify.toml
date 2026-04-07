@@ -1,2 +1,7 @@
+[build]
+base = "platform/netlify"
+command = "npm install"
+ignore = "false"
+
 [template.environment]
 token = "Configure the token to be more secure and avoid misuse by others. Multiple tokens are separated by commas"

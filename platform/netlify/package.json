@@ -2,7 +2,6 @@
   "name": "deeplx-serverless",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@10.12.4",
   "dependencies": {
     "body-data": "^2.0.4",
     "deeplx-lib": "^0.0.5"
