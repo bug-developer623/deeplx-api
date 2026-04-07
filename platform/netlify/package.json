@@ -3,12 +3,9 @@
   "type": "module",
   "version": "1.0.0",
   "packageManager": "pnpm@10.12.4",
-  "scripts": {
-    "start": "netlify dev BROWSER=none",
-    "deploy": "netlify deploy"
-  },
   "dependencies": {
-    "deeplx-serverless": "https://github.com/lete114/deeplx-serverless/archive/refs/tags/v0.0.5.tar.gz"
+    "body-data": "^2.0.4",
+    "deeplx-lib": "^0.0.5"
   },
   "devDependencies": {
     "@types/node": "^24.0.10",
